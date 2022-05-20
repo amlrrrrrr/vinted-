@@ -1,0 +1,55 @@
+{
+    "token": "OTcyOTYwNDc1NDEzMzU2NjA1.GungM-._C5CvaKgUd5d7LWrXXpeQEuNGS20i0vNWEGj7c",
+    "prefix": "$",
+    "status": "VINTED MOTHER FUCKER",
+    "suburl": {
+        "https://discord.com/api/webhooks/977273640502558800/9FgIBqC44XKElTzGqOgMo2V-jPi4RpuBwbhgb0lsUO-W8536IZxqLzoWK9r6pmJw_ViR": {
+            "url": "https://www.vinted.fr/vetements?search_text=Autres%20pull-overs%20%26%20sweat-shirts&brand_id[]=10&brand_id[]=4691320&brand_id[]=14&brand_id[]=53&price_to=30&currency=EUR&catalog[]=4",
+            "salon": "sweat"
+        },
+        "https://discord.com/api/webhooks/977273923781689394/Ehn2Uvsxj1MFYkUUsDA_DEpWuoLnEuM8dnWarDOQ7u9frvMgO3KNtabFVCbgCeNdHHtJ": {
+            "url": "https://www.vinted.fr/vetements?search_text=pantalons&price_to=30&currency=EUR&catalog[]=4&brand_id[]=53&brand_id[]=14&brand_id[]=10&brand_id[]=197478",
+            "salon": "pantalons"
+        },
+        "https://discord.com/api/webhooks/977274295850000434/MKdNtjFXUjb_gabKKIxnpRlrmYNs9q9kVtb0fpkMs79ziBMdRNASJjc6qIRNp8FKdZ78": {
+            "url": "https://www.vinted.fr/vetements?search_text=chaussures&price_to=30&currency=EUR&brand_id[]=53&brand_id[]=4691320&brand_id[]=2703",
+            "salon": "chaussures"
+        },
+        "https://discord.com/api/webhooks/977276249862979585/psxc4kgG4hiX9_LQdrapwwaaNhpp-YTtfRM97O0833QGBxq55zrOJfj1XnWEkW7Rz9xH": {
+            "url": "https://www.vinted.fr/vetements?currency=EUR&status[]=2&status[]=6&status[]=1&catalog[]=4&catalog[]=2050&price_from=50&price_to=100",
+            "salon": "bon-etat-50_100"
+        },
+        "https://discord.com/api/webhooks/977276442742259742/SqTGxIfWB5MWRfeP0qwSakQDeItx3-_SDa0Xk6Na6F8yhdiWUVFHIflFzpv5mzpcYD-v": {
+            "url": "https://www.vinted.fr/vetements?price_to=30&currency=EUR&status[]=2&status[]=1&status[]=6&catalog[]=4&catalog[]=2050",
+            "salon": "bonne-\u00e9tat-0_30"
+        },
+        "https://discord.com/api/webhooks/977276835316531230/FcQFlpT77W7yomy3bnD0_9HVAY1TRlLnkrNLx9QJzoUEIz0tcjdH5rWN8A-H859yVx1S": {
+            "url": "https://www.vinted.fr/vetements?price_to=50.00&currency=EUR&status[]=2&status[]=1&status[]=6&catalog[]=4&catalog[]=2050&price_from=30",
+            "salon": "bon-etat-30_50"
+        },
+        "https://discord.com/api/webhooks/977296189240266813/gov2fki_FQSFWcvKZcXOyQjZq2cdh7mioU53JCQgeaJIm2iabtGq51fmzPSbdPKY8LXJ": {
+            "url": "https://www.vinted.fr/vetements?search_text=dunk&brand_id[]=53&brand_id[]=14&brand_id[]=88&brand_id[]=10&brand_id[]=255&brand_id[]=94&brand_id[]=304&brand_id[]=4691320&price_to=30&currency=EUR",
+            "salon": "dunk"
+        },
+        "https://discord.com/api/webhooks/977297628863803503/7Ek4gD6OkJQpgBpw8KygglTn8o8bcmeM-vHZo2zE0f-_mo7EUhvZ-NCJjjOMQ9rLektA": {
+            "url": "https://www.vinted.fr/vetements?catalog[]=1231&price_to=100&currency=EUR&status[]=6&status[]=1&status[]=2",
+            "salon": "no-limite"
+        },
+        "https://discord.com/api/webhooks/977302989410820106/eO-Ke9qutQ4MsI2Dq3AwkvLeKyNNe0S4J6V_tIagowv1AxFkKVMAkpC_-3ng2vygw9jG": {
+            "url": "https://www.vinted.fr/vetements?catalog[]=1819&catalog[]=2051&catalog[]=2052&catalog[]=1820&catalog[]=260&catalog[]=1822&catalog[]=1823&catalog[]=1824&catalog[]=272&catalog[]=80&catalog[]=267&catalog[]=1812&price_from=10.00&currency=EUR&price_to=100.00",
+            "salon": "pantalons"
+        }
+    },
+    "embed-color-text": "YAML",
+    "embed-color": 16777215,
+    "embed-config": {
+        "prix": "oui",
+        "vendeur": "oui",
+        "avis": "oui",
+        "localisation": "oui",
+        "marque": "oui",
+        "taille": "oui",
+        "couleur": "oui",
+        "etat": "oui"
+    }
+}
